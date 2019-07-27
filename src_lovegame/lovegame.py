@@ -1,4 +1,5 @@
 # Filename: The First Game about love
+# author: Huiqi Li
 
 import pygame, sys, random, os
 
