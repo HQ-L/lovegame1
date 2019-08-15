@@ -1,7 +1,7 @@
 # Filename: The First Game about love
 # author: Huiqi Li
 
-# import these package
+# import these packages
 import pygame, sys, random, os
 
 # INIT pygame and pygame's music player
